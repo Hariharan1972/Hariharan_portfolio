@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>D Hariharan | Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="progress"></div>
+<nav>
+ <a class="logo" href="#home" id="logo"></a>
+ <ul id="links"></ul>
+ <div class="tools"><button id="theme" aria-label="Toggle theme">☀</button><button id="menu" aria-label="Menu">☰</button></div>
+</nav>
+
+<section id="home">
+ <img class="avatar" src="photo.jpg" alt="D Hariharan">
+ <div class="badge"><i></i>Open to internships &amp; entry-level opportunities</div>
+ <div class="eyebrow">Welcome to my portfolio</div>
+ <h1>Hi, I'm <span id="name"></span></h1>
+ <div class="role" id="role"></div>
+ <p class="lead" id="tagline"></p>
+ <div><a class="btn main" href="#projects">Explore My Work</a><a class="btn" href="#contact">Contact Me</a></div>
+ <div class="links" id="social"></div>
+</section>
+
+<section id="about"><div class="eyebrow">Get to know me</div><h2>About Me</h2><p class="lead" id="about-text" style="max-width:720px"></p>
+ <div class="stats" id="stats"></div>
+ <h3 class="sub">Currently Learning</h3><div class="chips" id="learning-list"></div>
+</section>
+<section id="services"><div class="eyebrow">How I can help</div><h2>What I Do</h2><div class="grid" id="services-list"></div>
+ <div class="objective"><b>Career Objective</b><p id="objective"></p></div>
+</section>
+<section id="skills"><div class="eyebrow">What I work with</div><h2>My Skills</h2><div class="chips" id="skills-list"></div></section>
+<section id="projects"><div class="eyebrow">Some things I've built</div><h2>My Projects</h2><div class="grid" id="projects-list"></div></section>
+<section id="education"><div class="eyebrow">My academic journey</div><h2>My Education</h2><div class="grid" id="education-list"></div></section>
+<section id="certifications"><div class="eyebrow">Learning &amp; development</div><h2>My Certifications</h2><div class="grid" id="certs-list"></div></section>
+<section id="achievements"><div class="eyebrow">Milestones</div><h2>My Achievements</h2><div class="grid" id="ach-list"></div></section>
+<section id="contact" class="contact"><div class="eyebrow">Let's connect</div><h2>Get In Touch</h2>
+ <p class="lead">Have a project idea or want to connect? Feel free to reach out.</p>
+ <form id="cform" class="cform" autocomplete="off">
+  <div class="row"><input id="cname" placeholder="Your name" required><input id="cemail" type="email" placeholder="Your email" required></div>
+  <input id="csubject" placeholder="Subject" required>
+  <textarea id="cmsg" rows="5" placeholder="Your message" required></textarea>
+  <button class="btn main" type="submit">Send Message</button>
+ </form>
+ <a class="btn" id="mail">Or email me directly</a><p class="lead" id="mail-text"></p>
+ <div class="profiles"><div class="eyebrow">Find me online</div><h3>My Profiles</h3><div id="profiles-list"></div></div>
+</section>
+<footer id="footer"></footer>
+<button id="top" aria-label="Back to top">↑</button>
+
+<script src="script.js"></script>
+</body>
+</html>
