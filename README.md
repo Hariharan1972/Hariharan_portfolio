@@ -81,4 +81,6 @@ To change colors, edit the CSS variables at the top of `style.css` (`--accent`, 
 
 ## 📄 License
 
-This project is open source. Add a license of your choice (e.g. [MIT](https://choosealicense.com/licenses/mit/)) in a `LICENSE` file.
+This project is licensed under the [MIT License](LICENSE) — © 2026 D Hariharan.
+
+You're free to use, copy, modify and share this template. A link back to the original repository is appreciated but not required.
