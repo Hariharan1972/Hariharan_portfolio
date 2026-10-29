@@ -77,7 +77,7 @@ To change colors, edit the CSS variables at the top of `style.css` (`--accent`, 
 **D Hariharan** — [hariharan2662@gmail.com](mailto:hariharan2662@gmail.com)
 
 - GitHub: [Hariharan1972](https://github.com/Hariharan1972)
-- LinkedIn: [hariharan-dharumaraj](https://www.linkedin.com/in/hariharan-dharumaraj-033810446)
+- LinkedIn: [hariharan-dharumaraj](https://www.linkedin.com/in/hariharan-dharumaraj-037b15442?)
 
 ## 📄 License
 
