@@ -6,7 +6,7 @@ const DATA = {
   tagline: "I turn logical thinking into practical software, writing clear code and learning something new every day.",
   about: "I'm a Computer Science student and aspiring developer who enjoys turning logical thinking into practical solutions. I'm strengthening my foundations in programming and problem-solving through hands-on projects, with a focus on writing clear code, learning consistently, and building software that is useful to people.",
   email: "hariharan2662@gmail.com",
-  social: [["GitHub","https://github.com/Hariharan1972"],["LinkedIn","https://www.linkedin.com/in/hariharan-dharumaraj-033810446"]],
+  social: [["GitHub","https://github.com/Hariharan1972"],["LinkedIn","https://www.linkedin.com/in/hariharan-dharumaraj-037b15442?"]],
   skills: ["C","Python","Java","JavaScript","HTML","CSS"],
   projects: [
     ["Cybersecurity Log Analyzer","A tool for examining system logs to help identify unusual activity and potential security events.","Cybersecurity"],
